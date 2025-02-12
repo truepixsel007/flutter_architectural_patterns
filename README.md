@@ -1,0 +1,2 @@
+# flutter_architectural_patterns
+#flutter_architectural_patterns
